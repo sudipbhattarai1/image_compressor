@@ -14,7 +14,8 @@
     <title>Free Online Image Compression Tool | Optimize Your Photos</title>
     <link rel="canonical" href="https://yourdomain.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_ADSENSE_ID" crossorigin="anonymous"></script>
+   <!-- Google AdSense Code -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8805110888320698" crossorigin="anonymous"></script>
     <style>
         :root {
             --primary-color: #4285f4;
